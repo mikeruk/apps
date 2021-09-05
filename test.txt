@@ -1,1 +1,3 @@
 this file is created in the SECOND USER'S git repository folder.
+this file is created in the FIRST git repository folder.
+
